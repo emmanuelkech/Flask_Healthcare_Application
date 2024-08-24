@@ -1,0 +1,13 @@
+name,age,gender,income,utilities,entertainment,school_fees,shopping,healthcare
+Martin Payne,45,male,9000,1000,2000,500,1000,1000
+Julia Roberts,35,male,40000,400,3000,,700,
+John Doe,30,male,40000,400,3000,,700,
+Sponge Bob,25,male,15000,,,5000,,
+tes,234,male,,433.0,555.0,44.0,44.0,44.0
+tes,234,male,,433.0,555.0,44.0,44.0,44.0
+tes,234,male,,433,555,44,44,44
+Julia Roberts,30,female,5000,1000,34,500,,
+Her,35,female,15000,,5000,44,,
+Julia Roberts,50,female,15000,,5000,,,
+Julia Roberts,50,female,15000,,5000,,,
+Kate Henshaw,52,female,9000,,,,3000,
