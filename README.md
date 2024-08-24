@@ -38,7 +38,8 @@ Key Insights generated are:
 This visualization is a bar chart that compares the spending habits of different genders across various expense categories like shopping, healthcare, or entertainment. Understanding these patterns will allow the company to develop more focused strategies for promoting the new healthcare product to the most relevant demographic segments. </br>
 Key Insights generated are:
   1. **Spending Patterns by Gender:** The chart may show that one gender spends more in certain categories, such as healthcare or shopping, than the other.
-  2. **Product Positioning:** These insights can help tailor the healthcare product to appeal to the gender with higher spending in the healthcare category, or adjust marketing strategies to better target each gender’s spending habits.
+  2. **Category Preferences:** For instance, females have higher spending in entertainment and shopping, while males might allocate more towards entertainment or school fees.
+  3. **Product Positioning:** These insights can help tailor the healthcare product to appeal to the gender with higher spending in the healthcare category, or adjust marketing strategies to better target each gender’s spending habits.
 
 ## Conclusion
 This project successfully develops a web-based survey tool to collect and analyze user data for informed decision-making in the healthcare industry. By leveraging Flask for web development, MongoDB for data storage, and AWS for deployment, the application efficiently gathers and processes data on income and spending habits. The included visualizations provide valuable insights into age-related income trends and gender-based spending patterns, which can guide targeted marketing strategies for the upcoming healthcare product launch. With this tool, the company is well-equipped to understand its customer base and position the product effectively in the market.
