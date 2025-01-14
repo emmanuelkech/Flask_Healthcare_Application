@@ -1,5 +1,4 @@
 # Flask Healthcare Application
-*Final Project*
 
 ## Overview
 This project is a web-based survey tool designed to collect user data for analyzing income spending in preparation for a new product launch in the healthcare industry. The application is built using Flask, MongoDB for data storage, and is deployed on Amazon Web Services (AWS).
